@@ -1,0 +1,2 @@
+- J'ai appris à ajouter des fichiers avec git add
+- j'ai appris à envoyer mes fichier Github avec Gitpush
